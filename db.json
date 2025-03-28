@@ -1,0 +1,145 @@
+{
+    "sensores cba":[
+    
+    {"sensor 1": {
+    
+    "id": 10,
+    "ubicacion":"chacabuco",
+    "fecha": "27/3/25",
+    "hora": 17,
+    "temperatura":28,
+    "humedad": "20%",
+    "prob.lluvia": "5%",
+    "estado": "activo",
+    "mantenimiento": "al dia",
+    "presion": "20 psi",
+    "altura": "1300 mts"
+    
+    }},
+    
+     {"sensor 2": {
+    
+    "id": 20,
+    "ubicacion":"chacabuco",
+    "fecha": "27/3/25",
+    "hora": 17,
+    "temperatura":28,
+    "humedad": "20%",
+    "prob.lluvia": "5%",
+    "estado": "activo",
+    "mantenimiento": "al dia",
+    "presion": "20 psi",
+    "altura": "1300 mts"
+    
+    }}, 
+    
+    {"sensor 3": {
+    
+    "id": 30,
+    "ubicacion":"chacabuco",
+    "fecha": "27/3/25",
+    "hora": 17,
+    "temperatura":28,
+    "humedad": "20%",
+    "prob.lluvia": "5%",
+    "estado": "activo",
+    "mantenimiento": "al dia",
+    "presion": "20 psi",
+    "altura": "1300 mts"
+    
+    }},
+    
+     {"sensor 4": {
+    
+    "id": 40,
+    "ubicacion":"chacabuco",
+    "fecha": "27/3/25",
+    "hora": 17,
+    "temperatura":28,
+    "humedad": "20%",
+    "prob.lluvia": "5%",
+    "estado": "activo",
+    "mantenimiento": "al dia",
+    "presion": "20 psi",
+    "altura": "1300 mts"
+    
+    }},
+    
+     {"sensor 5": {
+    
+    "id": 50,
+    "ubicacion":"chacabuco",
+    "fecha": "27/3/25",
+    "hora": 17,
+    "temperatura":28,
+    "humedad": "20%",
+    "prob.lluvia": "5%",
+    "estado": "activo",
+    "mantenimiento": "al dia",
+    "presion": "20 psi",
+    "altura": "1300 mts"
+    
+    }},
+    
+     {"sensor 6": {
+    
+    "id": 60,
+    "ubicacion":"chacabuco",
+    "fecha": "27/3/25",
+    "hora": 17,
+    "temperatura":28,
+    "humedad": "20%",
+    "prob.lluvia": "5%",
+    "estado": "activo",
+    "mantenimiento": "al dia",
+    "presion": "20 psi",
+    "altura": "1300 mts"
+    
+    }}],
+    
+    
+    
+    
+    "barrios cba":[
+      
+    {"villa walcarde":{
+    "id": 1,
+    "codigo postal": 5001,
+    "poblacion": 2000,
+    "lluvias anuales": "600 mm",
+    "sensor activo": 10
+    }},
+    
+    {"cerro de las rosas":{
+    "id": 2,
+    "codigo postal": 5001,
+    "poblacion": 2000,
+    "lluvias anuales": "600 mm",
+    "sensor activo": 10
+    }},
+    
+    {"general paz":{
+    "id": 3,
+    "codigo postal": 5001,
+    "poblacion": 2000,
+    "lluvias anuales": "600 mm",
+    "sensor activo": 10
+    }},
+    
+    {"villa allende":{
+    "id": 4,
+    "codigo postal": 5001,
+    "poblacion": 2000,
+    "lluvias anuales": "600 mm",
+    "sensor activo": 10
+    }},
+    
+    {"alta cordoba":{
+    "id": 5,
+    "codigo postal": 5001,
+    "poblacion": 2000,
+    "lluvias anuales": "600 mm",
+    "sensor activo": 10
+    }}
+    ]
+  }
