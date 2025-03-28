@@ -1,12 +1,44 @@
 {
-    "sensores cba":[
+    "sensores":[
     
-    {"sensor 1": {
+    {
     
-    "id": 10,
+    "id_sensor": 1,
     "ubicacion":"chacabuco",
     "fecha": "27/3/25",
-    "hora": 17,
+    "hora": 17:00,
+    "temperatura":28,
+    "humedad": "20%",
+    "prob.lluvia": "5%",
+    "estado": "activo",
+    "mantenimiento": "al dia",
+    "presion": "20 psi",
+    "altura": "1300 mts"
+    
+    },
+    
+     {
+    
+    "id_sensor": 2,
+    "ubicacion":"chacabuco",
+    "fecha": "27/3/25",
+    "hora": 17:00,
+    "temperatura":28,
+    "humedad": "20%",
+    "prob.lluvia": "5%",
+    "estado": "activo",
+    "mantenimiento": "al dia",
+    "presion": "20 psi",
+    "altura": "1300 mts"
+    
+    }, 
+    
+    {
+    
+    "id_sensor": 3,
+    "ubicacion":"chacabuco",
+    "fecha": "27/3/25",
+    "hora": 17:00,
     "temperatura":28,
     "humedad": "20%",
     "prob.lluvia": "5%",
@@ -17,12 +49,12 @@
     
     }},
     
-     {"sensor 2": {
+     {
     
-    "id": 20,
+    "id_sensor": 4,
     "ubicacion":"chacabuco",
     "fecha": "27/3/25",
-    "hora": 17,
+    "hora": 17:00,
     "temperatura":28,
     "humedad": "20%",
     "prob.lluvia": "5%",
@@ -31,14 +63,14 @@
     "presion": "20 psi",
     "altura": "1300 mts"
     
-    }}, 
+    },
     
-    {"sensor 3": {
+    {
     
-    "id": 30,
+    "id_sensor": 5,
     "ubicacion":"chacabuco",
     "fecha": "27/3/25",
-    "hora": 17,
+    "hora": 17:00,
     "temperatura":28,
     "humedad": "20%",
     "prob.lluvia": "5%",
@@ -47,14 +79,14 @@
     "presion": "20 psi",
     "altura": "1300 mts"
     
-    }},
+    },
     
-     {"sensor 4": {
+    {
     
-    "id": 40,
+    "id_sensor": 6,
     "ubicacion":"chacabuco",
     "fecha": "27/3/25",
-    "hora": 17,
+    "hora": 17:00,
     "temperatura":28,
     "humedad": "20%",
     "prob.lluvia": "5%",
@@ -63,83 +95,56 @@
     "presion": "20 psi",
     "altura": "1300 mts"
     
-    }},
-    
-     {"sensor 5": {
-    
-    "id": 50,
-    "ubicacion":"chacabuco",
-    "fecha": "27/3/25",
-    "hora": 17,
-    "temperatura":28,
-    "humedad": "20%",
-    "prob.lluvia": "5%",
-    "estado": "activo",
-    "mantenimiento": "al dia",
-    "presion": "20 psi",
-    "altura": "1300 mts"
-    
-    }},
-    
-     {"sensor 6": {
-    
-    "id": 60,
-    "ubicacion":"chacabuco",
-    "fecha": "27/3/25",
-    "hora": 17,
-    "temperatura":28,
-    "humedad": "20%",
-    "prob.lluvia": "5%",
-    "estado": "activo",
-    "mantenimiento": "al dia",
-    "presion": "20 psi",
-    "altura": "1300 mts"
-    
-    }}],
+    }],
     
     
     
     
     "barrios cba":[
       
-    {"villa walcarde":{
+    {
     "id": 1,
+    "nombre":"villa_warcalde",
     "codigo postal": 5001,
     "poblacion": 2000,
     "lluvias anuales": "600 mm",
     "sensor activo": 10
-    }},
+    },
     
-    {"cerro de las rosas":{
+    {
     "id": 2,
+    "nombre" : "villa_allende",
     "codigo postal": 5001,
     "poblacion": 2000,
     "lluvias anuales": "600 mm",
     "sensor activo": 10
-    }},
+    },
     
-    {"general paz":{
+    {
     "id": 3,
+    "nombre":"general_paz",
     "codigo postal": 5001,
     "poblacion": 2000,
     "lluvias anuales": "600 mm",
     "sensor activo": 10
-    }},
+    },
     
-    {"villa allende":{
+    {
     "id": 4,
+    "nombre":"urca",
     "codigo postal": 5001,
     "poblacion": 2000,
     "lluvias anuales": "600 mm",
     "sensor activo": 10
-    }},
+    },
     
-    {"alta cordoba":{
+    {
     "id": 5,
+    "nombre":"alta_cordoba",
     "codigo postal": 5001,
     "poblacion": 2000,
     "lluvias anuales": "600 mm",
     "sensor activo": 10
-    }}
+    }
     ]
   }
